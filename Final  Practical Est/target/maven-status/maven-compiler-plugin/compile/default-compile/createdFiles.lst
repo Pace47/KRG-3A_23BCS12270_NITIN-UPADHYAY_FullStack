@@ -1,0 +1,4 @@
+com\example\entity\Employee.class
+com\example\JpaOneToManyDemoApplication.class
+com\example\entity\Department.class
+com\example\repository\DepartmentRepository.class
